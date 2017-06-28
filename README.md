@@ -8,7 +8,7 @@ npm i super-simple-serverless-plugin --save-dev
 
 ## Usage
 
-Then add to `serverless.yml`
+Then add the plguin to `serverless.yml` in the `plugins` key
 
 ```yml
 service: customerio-service
